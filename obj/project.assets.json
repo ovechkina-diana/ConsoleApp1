@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\German\\.nuget\\packages\\": {}
+    "/Users/dianaovechkina/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\German\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/dianaovechkina/Desktop/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\German\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\German\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\German\\source\\repos\\ConsoleApp1\\obj\\",
+      "projectPath": "/Users/dianaovechkina/Desktop/ConsoleApp1/ConsoleApp1.csproj",
+      "packagesPath": "/Users/dianaovechkina/.nuget/packages/",
+      "outputPath": "/Users/dianaovechkina/Desktop/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\German\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/dianaovechkina/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
